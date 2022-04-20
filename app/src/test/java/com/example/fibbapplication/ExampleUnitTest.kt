@@ -27,7 +27,7 @@ class ExampleUnitTest {
 
     @Test
     fun negative_isCorrerct() {
-        assertEquals(-1, FibMethod().Fibonnacci(-1))
+        assertEquals(-1, FibMethod().Fibonnacci(-2))
     }
 
     @Test
